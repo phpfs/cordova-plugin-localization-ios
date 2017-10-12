@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin id="cf-cordova-plugin-localization-ios" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
-    <name>CRM Factory Cordova Localization iOS Plugin</name>
-    <description>A label translate example</description>
+    <name>CRM Factory Cordova Localization iOS Plugin for Germany</name>
+    <description>A label translate example for the german language</description>
     <!-- ios -->
     <platform name="ios">
         <config-file target="*-Info.plist" parent="CFBundleDevelopmentRegion">
