@@ -1,5 +1,5 @@
-# cordova-plugin-localization-ios
-Small plugin that adds localization parameters to the plist file.
+# cordova-plugin-localization-ios-german
+Small plugin that adds german localization parameters to the plist file.
 
 This mainly done to translate iOS buttons like `Cancel`, `Done`, etc.
 
